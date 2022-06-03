@@ -1,3 +1,3 @@
 # Naive Bayes Classifier
 
-Implementation of a Naive Bayes classifier in Java which acts as a SPAM / HAM filter.
+Using HashMap structures in Java to implement a Naive Bayes Classifier that acts as a SPAM / HAM filter.
